@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+h2{
+  color: darkcyan;
+  font-style: italic;
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+h4{
+  color: navy;
+  font-style: italic;
+}
+
+.my-align-left {
+  text-align: left;
+}
+
